@@ -1,3 +1,3 @@
-# DATA 100 Final Project
+# CBE 143 Final Project
 
 Rohit Rungta, Samay Garg
